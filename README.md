@@ -1,4 +1,4 @@
-# Hi, I'm Jegan.
+# Hi, I'm Jegn.
 ## First paragraph
 This paragraph is the first paragraph. I will include a list here.
 1. This is the first item
@@ -7,6 +7,6 @@ This paragraph is the first paragraph. I will include a list here.
 ## Second paragraph
 This paragraph is the second paragraph. I will include a hyperlink here.
 
-This website is one of the most useful websites in the world: [Google](google.com)
+This website is one of the most useful websites in the world: [Google](gogle.com)
 
 Thank you for reading my markdown file
