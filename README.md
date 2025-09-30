@@ -1,5 +1,7 @@
 # Hi, I'm Jegan.
 ## First paragraph
+I studied my undergrad at the National University of Singapore.
+
 This paragraph is the first paragraph. I will include a list here.
 1. This is the first item
 1. This is the second item
